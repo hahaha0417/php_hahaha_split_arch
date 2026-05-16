@@ -1,10 +1,11 @@
-# 底層架構
+# 分離式架構
 
-引入套件\
-/library\
-通用 Code\
-/code\
-後台 \
-/project/backend/ \
-整合 \
-/project/migrate/ 
+方針：
+1. 統一vender
+2. 拆專案設計
+
+
+
+:D 離職後再弄
+
+enjoy it
